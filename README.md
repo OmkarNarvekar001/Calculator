@@ -4,6 +4,4 @@ Basic calculator which performs all the basic operations i.e. addition, substarc
 
 Constructed using HTML, CSS and JavaScript.
 
-Additional functionality includes switching from light mode to dark mode and vice-versa. 
-
-Hosted on : https://omkarnarvekar001.github.io/Calculator/
+Additional functionality includes switching from light mode to dark mode and vice-versa.
